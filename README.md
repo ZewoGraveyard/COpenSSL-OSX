@@ -12,9 +12,9 @@ COpenSSL-OSX
 
 - Install `openssl`
 
-```bash
-$ brew install openssl
-$ brew link --force openssl
+```sh
+brew install openssl
+brew link --force openssl
 ```
 
 - Add `COpenSSL-OSX` to your `Package.swift`
